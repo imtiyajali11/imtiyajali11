@@ -71,6 +71,21 @@ Open to        : Data Analyst | AI/ML | BI | Healthcare Analytics roles
   <img src="https://streak-stats.demolab.com?user=imtiyajali11&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
+<p align="center">
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imtiyajali11&theme=tokyonight" alt = "Profile Summary Cards" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imtiyajali11&theme=tokyonight&utcOffset=5.5" alt= "Productive Time / Commit Pattern" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imtiyajali11&repo=Indian-Rainfall-Prediction-App&theme=tokyonight&hide_border=true" alt= "Pinned Repo Cards" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imtiyajali11&theme=tokyo-night&hide_border=true" alt= "Contribution Graph" />
+</p>
 ---
 
 ## Career Highlights
