@@ -35,7 +35,7 @@ Open to        : Data Analyst | AI/ML | BI | Healthcare Analytics roles
 
 | Area | Tools and Skills |
 |---|---|
-| Programming | Python, SQL, R, HTML, CSS, JavaScript |
+| Programming | Python, SQL, R |
 | Data Analysis | Pandas, NumPy, SciPy, Statistics, EDA |
 | Machine Learning | Scikit-Learn, TensorFlow, Keras, PyTorch, NLP, Computer Vision |
 | BI and Visualization | Power BI, Tableau, Matplotlib, Seaborn, Plotly |
