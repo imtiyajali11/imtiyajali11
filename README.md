@@ -63,16 +63,12 @@ Open to        : Data Analyst | AI/ML | BI | Healthcare Analytics roles
 ## GitHub Snapshot
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtiyajali11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=imtiyajali11&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtiyajali11&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/imtiyajali11?tab=repositories">
-    <img src="https://img.shields.io/badge/Public%20Repositories-View%20All-24D8FF?style=for-the-badge&logo=github" alt="View public repositories" />
-  </a>
-  <a href="https://imtiyajali11.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Full%20Website-22C55E?style=for-the-badge&logo=githubpages" alt="Portfolio website" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=imtiyajali11&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
